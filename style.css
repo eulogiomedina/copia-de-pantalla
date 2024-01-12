@@ -1,0 +1,139 @@
+#copel{
+   
+    border-bottom: 4px solid rgb(252, 250, 250);
+    width: 300px;
+}
+#logocopel{
+    width: 120px;
+    display: flex;
+    justify-content: center;
+}
+#texto1{
+    display: flex;
+    align-items:  center;
+    flex-direction: column;
+    font-size: 13px;
+   
+
+}
+#texto{
+    width: 60ch;
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+}
+#imagenes1{
+    display: flex;
+    justify-content: center;
+}
+#sala{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(30%, 0%);
+}
+#mujer{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-100%, -80%);
+}
+#logos{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    
+}
+#lfin{
+    width: 25px;
+    height: 25px;
+    margin: 20px;
+}
+
+#circulo1{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(140%, -230%);
+}
+#circulo2{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(600%, -50%);
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    margin-top: 30px;
+}
+#final{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+div{
+    display: flex;
+    justify-content: center;    
+}
+#circulo{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-260%, -650%);
+}
+#ama{
+    width: 13px;
+    height: 13px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-1100%, 10%);
+}
+#logos1{
+    border: 2px solid blue;
+    width: 300px;
+    height: 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    color: blue;
+   
+
+
+}
+#form{
+    width: 310px;
+    height: 650px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+
+}
